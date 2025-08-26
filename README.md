@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://api.iconify.design/cryptocurrency:ton.svg?width=100&height=100" alt="TON Icon">
+  <img src="https://api.iconify.design/mdi:cash.svg?width=100&height=100" alt="TON Icon">
 </p>
 
 <h1 align="center">💎 TON Flash</h1>
